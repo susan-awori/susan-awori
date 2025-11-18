@@ -26,8 +26,14 @@ I am currently working on a high-impact project to showcase my combined skills:
 
 | Project Name | Focus | Status |
 | :--- | :--- | :--- |
-| **UzaLeo Seller Onboarding Page** | High-conversion landing page for a local e-commerce marketplace. **(Content Strategy + HTML/CSS)** | In Progress 🚧 |
+| **UzaLeo Seller Onboarding Page** | High-conversion landing page for a local e-commerce marketplace. **(Content Strategy + HTML/CSS)** | Completed ✅ |
 | **Future Project** | Planning |
+
+UzaLeo Links:
+
+Live Demo: [(https://susan-awori.github.io/uza-leo-seller-onboarding-page/)]
+
+Repository: [(https://github.com/susan-awori/uza-leo-seller-onboarding-page)]
 
 ### 🌍 Let's Connect!
 
