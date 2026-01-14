@@ -4,7 +4,9 @@
 
 I'm a passionate front-end developer based in Nairobi, Kenya, specializing in building responsive, high-impact websites that solve real business problems. My focus is on combining clean, modern code with strategic design principles to turn visitors into valuable customers.
 
-**Looking for new freelance opportunities on Upwork!**
+**View Portfolio**
+
+> https://susan-awori.github.io/susan-awori-s-visual-studio-portfolio/
 
 ---
 
