@@ -1,12 +1,22 @@
 # Hello, I'm Susan Awori. 👋
 
-### 🚀 Web Designer | Content Strategist | UX Enthusiast
+### Front-End Developer | UI/UX Lover | Web Creator
 
-I'm a passionate front-end developer based in Nairobi, Kenya, specializing in building responsive, high-impact websites that solve real business problems. My focus is on combining clean, modern code with strategic design principles to turn visitors into valuable customers.
+I’m a front-end developer based in Nairobi, Kenya, passionate about creating interactive and user-friendly web and mobile experiences. I’m currently learning React, TypeScript, Kotlin, and Flutter to expand my skills across web and app development.  
+
+I enjoy collaborating on open-source UI/UX and front-end projects and I'm always open to learning from others, especially about full-stack integration and app deployment.  
+
+Feel free to reach out if you want to chat about front-end development, UX design, or responsive layouts.  
 
 **View Portfolio**
 
 > https://susan-awori.github.io/susan-awori-s-visual-studio-portfolio/
+
+**Pronouns:** She/Her  
+
+**Fun facts:**  
+- I can turn a wireframe into a website faster than you can imagine 
+- I sometimes talk to my code like it’s a pet
 
 ---
 
@@ -22,24 +32,8 @@ I'm a passionate front-end developer based in Nairobi, Kenya, specializing in bu
 | **Tools** | <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /> <img src="https://img.shields.io/badge/VS%20Code-0078D4?style=for-for-the-badge&logo=visual%20studio%20code&logoColor=white" /> |
 ---
 
-### ✨ Featured Project 
-
-I am currently working on a high-impact project to showcase my combined skills:
-
-| Project Name | Focus | Status |
-| :--- | :--- | :--- |
-| **UzaLeo Seller Onboarding Page** | High-conversion landing page for a local e-commerce marketplace. **(Content Strategy + HTML/CSS)** | Completed ✅ |
-| **Future Project** | Planning |
-
-UzaLeo Links:
-
-Live Demo: [(https://susan-awori.github.io/uza-leo-seller-onboarding-page/)]
-
-Repository: [(https://github.com/susan-awori/uza-leo-seller-onboarding-page)]
-
 ### 🌍 Let's Connect!
 
-* **Find me on Upwork:** [https://upwork.com/freelancers/~01a187c205c9f9d5a7] 
 * **Send me an email:** [susanawori15@gmail.com]
 
 <br/>
