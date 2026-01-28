@@ -18,13 +18,14 @@ I’m a front-end developer based in Nairobi, Kenya, passionate about creating i
 
 I enjoy collaborating on open-source UI/UX and front-end projects and I'm always open to learning from others, especially about full-stack integration and app deployment.  
 
-Feel free to reach out if you want to chat about front-end development, UX design, or responsive layouts.  
+Feel free to reach out if you want to chat about front-end development, UX design, or responsive layouts. 
+
+### Portfolio
 
 🔗 [View my portfolio](https://susan-awori.github.io/susan-awori-s-visual-studio-portfolio/)
 
 
-—  
-Pronouns: She/Her
+<sub>Pronouns: She/Her</sub>
 
 **Fun facts:**  
 - I can turn a wireframe into a website faster than you can imagine 
@@ -40,13 +41,14 @@ Pronouns: She/Her
 | :--- | :--- |
 | **Front-End Design** | <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />|
 | **Design / UX** | <img src="https://img.shields.io/badge/CorelDRAW-2479E9?style=for-the-badge&logo=coreldraw&logoColor=white" /> <img src="https://img.shields.io/badge/Inkscape-000000?style=for-the-badge&logo=inkscape&logoColor=white" /> <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" /> |
-| **Learning / Mobile** | <img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white" />  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" /> <img src="https://img.shields.io/badge/ReactJs-61DAFB?style=for-the-badge&logo=figma&logoColor=lightblue"/> |
-| **Tools** | <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /> <img src="https://img.shields.io/badge/VS%20Code-0078D4?style=for-for-the-badge&logo=visual%20studio%20code&logoColor=white" /> |
+| **Learning / Mobile** | <img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white" />  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" /> <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/> |
+| **Tools** | <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /> <img src="https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white" /> |
 ---
 
 ### 🌍 Let's Connect!
 
-* **Send me an email:** [susanawori15@gmail.com]
+📧 [susanawori15@gmail.com](mailto:susanawori15@gmail.com)
+
 
 <br/>
 <p align="center">
