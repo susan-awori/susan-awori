@@ -27,7 +27,7 @@ Feel free to reach out if you want to chat about front-end development, UX desig
 
 <sub>Pronouns: She/Her</sub>
 
-**Fun facts:**  
+### **Fun facts:**
 - I can turn a wireframe into a website faster than you can imagine 
 - I sometimes talk to my code like it’s a pet
 
@@ -48,6 +48,7 @@ Feel free to reach out if you want to chat about front-end development, UX desig
 ### 🌍 Let's Connect!
 
 📧 [susanawori15@gmail.com](mailto:susanawori15@gmail.com)
+
 
 
 <br/>
