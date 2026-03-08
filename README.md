@@ -46,7 +46,7 @@ Feel free to reach out if you want to chat about front-end development, UX desig
 ---
 
 ### Contribution Stats
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=susan-awori&" alt="susan-awori" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=susan-awori&theme=dark" alt="susan-awori" /></p>
 
 ---
 
