@@ -2,7 +2,7 @@
   <img src="https://img.shields.io/badge/Susan%20Awori-Frontend%20Developer-8A2BE2?style=for-the-badge" />
 </p>
 
-<h1 align="center">✦ Susan Awori ✦</h1>
+<h1 align="center">✦ Welcome to My GitHub Universe ✦</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3000&color=8A2BE2&center=true&vCenter=true&width=500&lines=Hello+👋;I'm+Susan+Awori;UI%2FUX+Designer+%7C+Frontend+Developer" />
