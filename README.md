@@ -14,11 +14,14 @@
 
 ---
 
-I’m a front-end developer based in Nairobi, Kenya, passionate about creating interactive and user-friendly web and mobile experiences. I’m currently learning React, TypeScript, Kotlin, and Flutter to expand my skills across web and app development.  
+I’m an aspiring Data Scientist and Software Developer based in Nairobi, Kenya, passionate about building impactful digital solutions through software, AI, and data-driven technologies.
 
-I enjoy collaborating on open-source UI/UX and front-end projects and I'm always open to learning from others, especially about full-stack integration and app deployment.  
+My journey in tech started with front-end development, where I built foundations in HTML, CSS, JavaScript, and responsive user experiences. Currently, I’m expanding my skills in React, TypeScript, Python and Data Science as I continue exploring web development.
 
-Feel free to reach out if you want to chat about front-end development, UX design, or responsive layouts. 
+I enjoy building real-world projects, learning new technologies, and collaborating with other developers while growing my knowledge in AI, software engineering, and modern application development.
+
+I’m always open to connecting with people in tech, collaborating on meaningful projects, and learning from innovative communities.
+
 
 ### Portfolio
 
