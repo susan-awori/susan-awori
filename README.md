@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  Designing thoughtful interfaces and building clean front-end experiences.
+  Developing thoughtful interfaces and building clean front-end experiences.
 </p>
 
 ---
