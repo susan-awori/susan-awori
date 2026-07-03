@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://img.shields.io/badge/Susan%20Awori-Frontend%20Developer-8A2BE2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Susan%20Awori-Data%20Scientist-8A2BE2?style=for-the-badge" />
 </p>
 
 <h1 align="center">✦ Welcome to My GitHub Universe ✦</h1>
