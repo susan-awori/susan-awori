@@ -52,7 +52,7 @@ I’m always open to connecting with people in tech, collaborating on meaningful
 ### 💻 Most Used Languages
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=susan-awori&layout=compact&theme=dark&langs_count=8" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=susan-awori&layout=compact&theme=dark&langs_count=8" />
 </div>
 
 ### 📊 GitHub Stats
