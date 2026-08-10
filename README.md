@@ -56,8 +56,9 @@ I’m always open to connecting with people in tech, collaborating on meaningful
 </div>
 
 ### 📊 GitHub Stats
-
-
+<div align="left">
+  <img src="https://github-stats-extended.vercel.app/api?username=susan-awori&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
+</div>
 
 ### Contribution Stats
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=susan-awori&theme=dark" alt="susan-awori" /></p>
