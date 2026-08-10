@@ -52,14 +52,12 @@ I’m always open to connecting with people in tech, collaborating on meaningful
 ### 💻 Most Used Languages
 
 <div align="left">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=susan-awori&layout=compact&theme=dark&langs_count=8" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=susan-awori&layout=compact&theme=dark&langs_count=8" />
 </div>
 
 ### 📊 GitHub Stats
 
-<div align="letf">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=susan-awori&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true" height="180"/>
-</div>
+
 
 ### Contribution Stats
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=susan-awori&theme=dark" alt="susan-awori" /></p>
