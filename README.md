@@ -69,8 +69,6 @@ I’m always open to connecting with people in tech, collaborating on meaningful
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=susan-awori&theme=tokyo-night&hide_border=true" />
 </div>
 
----
-
 ### 🌍 Let's Connect!
 
 📧 [susanawori15@gmail.com](mailto:susanawori15@gmail.com)
